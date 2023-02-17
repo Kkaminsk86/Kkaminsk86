@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-- 🌱 Currently I'm still learning about blockchain security and experimenting with DeFiHackLabs and Foundry
+- 🌱 Currently I'm still focusing on learning about blockchain security.
+- :monocle_face: Currently I'm experimenting with DefiHackLabs and Foundry.
 
